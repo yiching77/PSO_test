@@ -1,0 +1,11 @@
+int32 Roll
+int32 Pitch
+int32 Yaw
+int32 GainRoll
+int32 GainPitch
+int32 GainKP
+int32 GainKD
+bool DesireSet
+bool IMUReset
+bool ForceState
+bool GainSet
